@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=KivaTest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ KivaTest\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=KivaTest()
+comment2.params=
+comment2.target=void\ testSingleArgumentConstructor()
+comment3.params=point
+comment3.target=void\ testTowArgumentConstructor(edu.duke.Point)
+comment4.params=a\ b
+comment4.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+numComments=5

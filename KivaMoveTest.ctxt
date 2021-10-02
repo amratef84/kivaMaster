@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=KivaMoveTest
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ KivaMoveTest\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ testForwardFromUp()
+comment2.params=a\ b
+comment2.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+comment3.params=testName\ actual\ expectLocation\ expectDirection\ expectCarry\ expectDropped
+comment3.target=void\ verifyKivaState(java.lang.String,\ Kiva,\ edu.duke.Point,\ FacingDirection,\ boolean,\ boolean)
+numComments=4
